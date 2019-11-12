@@ -23,7 +23,7 @@ class Song
   end
   
   def self.artists
-    "here"
+    ["test", "test"]
   end
   
 end
