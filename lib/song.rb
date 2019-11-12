@@ -23,7 +23,7 @@ class Song
   end
   
   def self.artists
-    ["test", "test"]
+    @@artists.uniq
   end
   
 end
